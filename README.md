@@ -1,4 +1,6 @@
 # Godot-Ocean-Demo
+__Warning! This project is no longer maintained.__
+
 An ocean demo in Godot 3.0.
 I am very proud of this demo and I want to thank you for trying it out.
 
